@@ -1,0 +1,8 @@
+CS 342 Program 4 by Sean Walker and Bilal Vajhi
+
+WE COULD NOT GET THE IMAGES TO SHOW UP IN ECLIPSE
+our repo just contains just the .java files and the images for the code
+
+it can be compiled via javac.
+
+everything works fine in Dr. Java and javac but eclipse was not displaying the pictures
